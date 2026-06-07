@@ -13,3 +13,5 @@ t check tags ----git tag
 to get description of tags-----git show <tag name>
 to push the code to remote repo--------git push origin main
 to push tag----------git push origin <tag name>
+to create a branch---git checkout -b "branch name"
+To check how many branches are there "git branch"
