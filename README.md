@@ -1,4 +1,4 @@
-"# First-Git-Demo" 
+"# First-Git-Demo"
 first step: Open cmd and create a folder using "mkdir"
 and open that folder using "cd<folder-name>"
 follow the steps as shown in github
